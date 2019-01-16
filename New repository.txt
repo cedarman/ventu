@@ -1,0 +1,14 @@
+CREATE A NEW REPOSITORY ON THE COMMAND LINE
+echo "# ventu" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/cedarman/ventu.git
+git push -u origin master
+
+PUSH AN EXISTING REPOSITORY ON THE COMMAND LINE
+git remote add origin https://github.com/cedarman/ventu.git
+git push -u origin master
+
+
+

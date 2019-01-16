@@ -1,0 +1,24 @@
+Git and github notes
+
+To configure git with github account:
+1) git config --global user.name "Your Name"
+   git config --global user.email ""
+
+To clone repositories from Github to local:
+2) git clone (url) 
+
+To create a commit (file) in local and upload on Github:
+3) git add (file name)
+   git status (to check file's status)
+
+Now to commit:
+   git commit -m "( a comment I prefer )" filename
+
+And to finish:
+   git push -u origin master
+
+
+
+
+   git remote add origin master (url) -----????????i dont know
+                                                   for what it is
