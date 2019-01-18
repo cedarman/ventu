@@ -1,0 +1,12 @@
+To upload file txt or index
+in a new repository follow the instruction on github
+
+the point in the end of command such as
+
+git add . 
+means to include ALL the file 
+
+Then go set 
+
+settings>github pages>source
+
